@@ -15,9 +15,6 @@ Hello, I'm Ezgi.<br><br>I am a student of Turkish Aeronautical Association Unive
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ezgiakbas87&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=uezgiakbas)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ezgiakbas87&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
