@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello, I'm Ezgi.<br><br>I am student of Turkish Aeronautical Association University Electrical and Electronics Engineering and Anadolu University Computer Programming.<br><br> <br><be>
-The game projects I do have nothing to do with my school education.
+My gaming projects have nothing to do with my school education.
 My LinkedIn profile: https://www.linkedin.com/in/uezgiakbas/
 My links: https://linktr.ee/uezgiakbas?utm_source=linktree_profile_share&ltsid=2b8c271a-2552-4898-b29d-a94cf71c8299
 
